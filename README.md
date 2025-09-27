@@ -95,15 +95,13 @@ npm run dev
 
 ## Screenshots
 
-*(Place screenshots in `/frontend/public/screenshots` and reference below)*
+![Screenshot 1](public/screenshots/1.png)  
 
-(public/screenshots/1.png)  
+![Screenshot 2](public/screenshots/2.png)  
 
-(public/screenshots/2.png)  
+![Screenshot 3](public/screenshots/3.png)  
 
-(public/screenshots/3.png)  
-
-(public/screenshots/4.png)  
+![Screenshot 4](public/screenshots/4.png)  
 
 ---
 
