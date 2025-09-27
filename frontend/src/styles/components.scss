@@ -1,0 +1,104 @@
+form {
+    width: 100%;
+    padding: 2rem;
+}
+
+form label {
+    width: 100%;
+    margin-top: 2rem;
+   
+}
+
+form select {
+    width: 100%;    
+}
+
+form input,
+form select, 
+form textarea {
+    width: 100%;
+    min-height: 3rem;
+    padding: 0.3rem 0.8rem;
+}
+
+form,
+form input,
+form select, 
+form textarea {
+    box-shadow: 0rem 0.1rem 0.5rem 0.2rem #0c0c0c95;
+    border: solid 0.015rem var(--foreground);
+    background: var(--foreground);
+    color: var(--background);
+}
+
+
+form button {
+    margin-top: 2rem;
+}
+
+
+
+
+table {
+    width: 100%;
+    border-collapse: separate;
+    border: none;
+    border-radius: 0.3rem;
+    box-shadow: 0rem 0.1rem 0.5rem 0.2rem #1a1c2d2a;
+
+}
+
+.table-container {
+    overflow-y: auto;
+    scrollbar-width: thin;
+    height: 30rem;
+    flex: none;
+}
+
+table thead tr th {
+    padding: 1rem;
+    text-transform: uppercase;
+    background: var(--primary);
+    color: var(--background);
+    border-radius: 0.3rem;
+    border: none;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+table tbody tr {
+    border-radius: 0.3rem;
+    border: solid saddlebrown 1rem;
+}
+
+table tbody tr td {
+    text-align: center;
+    border-radius: 0.3rem;
+    padding: 1rem;
+    background: rgba(179, 177, 177, 0.083);
+}
+
+
+
+.card {
+    box-shadow: 0rem 0.1rem 0.5rem 0.2rem #0c0c0c95;
+    border: solid 0.015rem var(--foreground);
+    background: var(--foreground);
+    color: var(--background);
+    padding: 2rem;
+}
+
+.card section {
+    flex-wrap: nowrap;
+}
+
+.card div {
+    align-items: flex-start;
+}
+
+.card h3 {
+    padding: 0.9rem;
+    width: 100%;
+    text-transform: uppercase;
+    border-bottom: solid whitesmoke 0.1rem;
+}
