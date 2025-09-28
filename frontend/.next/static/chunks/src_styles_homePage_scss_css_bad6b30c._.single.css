@@ -1,0 +1,23 @@
+/* [project]/src/styles/homePage.scss.css [app-client] (css) */
+.home-page {
+  gap: 2rem;
+  padding: 4rem 0;
+}
+
+.home-page h1 {
+  text-align: center;
+}
+
+.home-page section {
+  align-items: stretch;
+}
+
+.home-page .no-reports {
+  justify-content: center;
+}
+
+.home-page .no-reports h1 {
+  font-size: 8rem;
+}
+
+/*# sourceMappingURL=src_styles_homePage_scss_css_bad6b30c._.single.css.map*/

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/src/styles/C:/Users/Hezron Jahmia/Documents/Software Development/mini-regulatory-report-assistant/frontend/src/styles/homePage.scss"],"sourcesContent":[".home-page {\r\n    gap: 2rem;\r\n    padding: 4rem 0;\r\n}\r\n\r\n.home-page h1 {\r\n    text-align: center;\r\n}\r\n\r\n.home-page section {\r\n    align-items: stretch;\r\n}\r\n\r\n.home-page .no-reports {\r\n    justify-content: center;\r\n}\r\n\r\n.home-page .no-reports h1 {\r\n    font-size: 8rem;\r\n}"],"names":[],"mappings":"AAAA;;;;;AAKA;;;;AAIA;;;;AAIA;;;;AAIA"}}]
+}
