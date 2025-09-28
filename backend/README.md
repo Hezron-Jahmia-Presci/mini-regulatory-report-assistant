@@ -152,3 +152,4 @@ The backend will run at `http://127.0.0.1:8000`.
 - Ensure the SQLite file has write permissions.  
 - If translations fail, the original outcome is returned.  
 - You can test endpoints via **Postman**, **curl**, or **FastAPI Swagger UI** at `http://127.0.0.1:8000/docs`.
+- ⚙️ Copy `.env.example` to `.env` and fill in your own environment variables before running the backend.
